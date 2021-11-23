@@ -1,0 +1,17 @@
+h3 {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+#timer {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+#start, #stop, #reset {
+  border: 1px solid black;
+}
+
+.inactive {
+  opacity: 0.6;
+}
